@@ -1,0 +1,19 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 4aa97874-2fd2-414c-b381-9420384c2fd8)
+
+  (paper "USLetter")
+
+  (title_block
+    (rev "1")
+    (comment 1 "Design for OSHPark 4-Layer Service")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
