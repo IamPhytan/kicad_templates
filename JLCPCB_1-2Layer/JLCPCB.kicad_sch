@@ -1,0 +1,19 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 8337309a-a084-4dc9-b04e-9d87942e9568)
+
+  (paper "USLetter")
+
+  (title_block
+    (rev "1")
+    (comment 1 "Design for JLCPCB 1-2 Layer Service")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
