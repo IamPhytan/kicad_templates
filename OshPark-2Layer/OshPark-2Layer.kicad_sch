@@ -1,0 +1,19 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 1a1ab354-5f85-45f9-938c-9f6c4c8c3ea2)
+
+  (paper "USLetter")
+
+  (title_block
+    (rev "1")
+    (comment 1 "Designed for OSH Park 2 Layer Prototype")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
